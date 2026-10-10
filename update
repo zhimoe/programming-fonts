@@ -1,0 +1,1 @@
+git checkout --orphan tmp && git add -A && git commit -am "programming fonts" && git branch -D master && git branch -m master && git push -f origin master
