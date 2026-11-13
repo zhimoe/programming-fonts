@@ -1,10 +1,10 @@
 > Buy a 4K+ resolution monitor to overcome your programming font addiction, and get the fucking job done!
 
 ### Screenshots
-[Source Code Pro (renamed to SF Mono)](screenshots/sfmono.png)
-![SourceCodePro as SF Mono](screenshots/sfmono.png)
+[Source Code Pro (renamed to SF Mono)](screenshots/scp.svg)
+![SourceCodePro as SF Mono](screenshots/scp.png)
 
-[CodeSC (for terminal 中英2:1 regular only)](screenshots/codesc.png)
+[CodeSC (for terminal 中英2:1 regular only)](screenshots/codesc.svg)
 ![CodeSC (for terminal 中英2:1 regular only)](screenshots/codesc.png)
 
 ### Best fonts for programming
